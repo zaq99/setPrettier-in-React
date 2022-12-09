@@ -38,9 +38,11 @@
 
 6. jika cara no.5 barusan di anggap terlalu rumit, kamu bisa menggunakan cara ini :
 
-   1. buka file **package.json**
-   2. tambahkan `"format": "npx prettier --write ."` pada 'script'
-   3. sekarang kamu hanya tinggal menjalankan
-      ```
-      npm run format
-      ```
+   - buka file **package.json**
+   - tambahkan `"format": "npx prettier --write ."` pada 'script'
+   - sekarang kamu hanya tinggal menjalankan
+     ```
+     npm run format
+     ```
+
+7. lihat perbedaan codemu sekarang
